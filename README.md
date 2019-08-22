@@ -16,3 +16,8 @@ Using SVM (Support vector machines algorithm), we will implement a tool that use
 
 For further info about the dataset take a look at this link: https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
 
+
+#### 4-Cat Vs. Not Cat image classification:
+Using a neural network, we will implement one of the most classic computer vision problems, a model that takes as input an image and predicts if it is a cat picture or not. 
+You can check the dataset at this link: (It's in h5 format) https://www.kaggle.com/mriganksingh/cat-images-dataset#train_catvnoncat.h5
+

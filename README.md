@@ -21,3 +21,11 @@ For further info about the dataset take a look at this link: https://www.kaggle.
 Using a neural network, we will implement one of the most classic computer vision problems, a model that takes as input an image and predicts if it is a cat picture or not. 
 You can check the dataset at this link: (It's in h5 format) https://www.kaggle.com/mriganksingh/cat-images-dataset#train_catvnoncat.h5
 
+
+#### 5-Movie recommender:
+
+Using the data from movielens 100k we will build a movie recommendation system, that, giving movies you rated, can provide you suggestions of movies you might like. You can find out more about the dataset used here: 
+https://grouplens.org/datasets/movielens/100k/ 
+
+
+

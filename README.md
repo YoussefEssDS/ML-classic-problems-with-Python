@@ -27,5 +27,7 @@ You can check the dataset at this link: (It's in h5 format) https://www.kaggle.c
 Using the data from movielens 100k we will build a movie recommendation system, that, giving movies you rated, can provide you suggestions of movies you might like. You can find out more about the dataset used here: 
 https://grouplens.org/datasets/movielens/100k/ 
 
+Part I: We use correlation between movies rating vectors.
+
 
 

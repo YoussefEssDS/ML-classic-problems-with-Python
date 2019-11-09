@@ -28,6 +28,7 @@ Using the data from movielens 100k we will build a movie recommendation system, 
 https://grouplens.org/datasets/movielens/100k/ 
 
 Part I: We use correlation between movies rating vectors.
+Part II: We use instead correlation matrix between each movie and the others based on raitings.
 
 
 
